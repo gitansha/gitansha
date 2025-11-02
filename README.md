@@ -24,12 +24,11 @@ I love building data-driven solutions that solve real-world problems and explori
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
-<!--
 ## 🏆 Holopin Badges
-[![Holopin Badge](https://holopin.io/api/user/badge/YOUR_HOLOPIN_ID_1)](https://holopin.io/@YOUR_HOLOPIN_USERNAME)
-[![Holopin Badge](https://holopin.io/api/user/badge/YOUR_HOLOPIN_ID_2)](https://holopin.io/@YOUR_HOLOPIN_USERNAME)
-[![Holopin Badge](https://holopin.io/api/user/badge/YOUR_HOLOPIN_ID_3)](https://holopin.io/@YOUR_HOLOPIN_USERNAME)
--->
+[![Holopin Badge](https://holopin.io/api/user/badge/cleec95c3040808jtc9bmog87)](https://holopin.io/gitansha)
+[![Holopin Badge](https://holopin.io/api/user/badge/cleec8i5p439208mdi7sa8ne9)](https://holopin.io/gitansha)
+[![Holopin Badge](https://holopin.io/api/user/badge/cmhc2nyax000hjs0464us3522)](https://holopin.io/gitansha)
+[![Holopin Badge](https://holopin.io/api/user/badge/cmh91jqv80097kv04ki63legr)](https://holopin.io/gitansha)
 
 ---
 
