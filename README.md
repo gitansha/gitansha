@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#00ADEF;">Gitansha Aggarwal</span> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey there, I'm <span style="color:#00ADEF;">Gitansha Aggarwal</span> </h1>
 
 <p align="center">
   <b>Machine Learning Engineer | MSc Business Analytics @ NTU Singapore | Passionate about NLP, RAG Chatbots & Scalable AI Systems</b>
@@ -19,11 +19,11 @@ Beyond code, I enjoy **designing dashboards**, **optimizing workflows**, and **m
 
 ---
 
-## 🔭 I’m currently working on
+## 🔭 What I'm building now
 - 🚀 Building **LLM-driven automation** for engineering document intelligence at **Singapore Airlines Engineering Company**  
 - 🧩 Experimenting with **RAG pipelines**, **multi-agent systems**, and **retrieval-augmented frameworks**
 
-## 🌱 I’m currently learning
+## 🌱 Exploring Next
 - ☁️ **AWS (SageMaker, Bedrock)** for scalable model deployment  
 - ⚙️ **Data Engineering** for AI pipelines using PySpark and Airflow  
 - 🧠 **LLM evaluation and fine-tuning** techniques
@@ -38,17 +38,22 @@ When I’m not training models, I’m probably deep into **anime**, **crafts �
 ## 💻 Tech Stack
 
 <p align="center">
+  <!-- Core ML & Data -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white" />
+
+  <!-- Cloud & Deployment -->
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+
+  <!-- Tools & Frontend -->
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
@@ -81,7 +86,7 @@ When I’m not training models, I’m probably deep into **anime**, **crafts �
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gitansha-aggarwal/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gitansha001@ntu.edu.sg)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue?style=for-the-badge&logo=google-chrome)](https://gitansha.github.io)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-View%20Here-1E1E1E?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://gitansha.github.io)
 
 ---
 
