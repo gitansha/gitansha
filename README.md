@@ -1,40 +1,37 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#00ADEF;">Gitansha Aggarwal</span></h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#00ADEF;">Gitansha Aggarwal</span> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p align="center">
-  <b>Machine Learning Engineer | MSc Business Analytics @ NTU Singapore | Passionate about NLP, RAG chatbots & scalable AI solutions  </b>
+  <b>Machine Learning Engineer | MSc Business Analytics @ NTU Singapore | Passionate about NLP, RAG Chatbots & Scalable AI Systems</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=00ADEF&center=true&vCenter=true&width=700&lines=Exploring+LLMs+and+Generative+AI+Applications...;Building+RAG+Chatbots+and+ML+Systems+on+the+Cloud...;Turning+Data+into+Scalable+Intelligence!">
+  <em>Exploring LLMs • Building Scalable AI Systems • Turning Data into Intelligence</em>
 </p>
 
 ---
 
 ## 🧠 About Me
-I’m a **Machine Learning Engineer** passionate about bridging the gap between **data, AI, and business impact** with **Master’s in Business Analytics at NTU Singapore**, I love transforming unstructured data into intelligent, scalable systems.  
+I’m a **Machine Learning Engineer** passionate about bridging the gap between **data, AI, and business impact**.  
+With a **Master’s in Business Analytics at NTU Singapore**, I love transforming unstructured data into intelligent, scalable systems.
 
-I’ve worked on **LLM-powered solutions**, **RAG chatbots**, and **cloud-based ML workflows** that reduce manual workload and enable smarter decision-making.  
-Beyond code, I enjoy blending creativity with analytics — designing dashboards, optimizing workflows, and mentoring others in AI.
+I’ve built **LLM-powered automation**, **RAG chatbots**, and **cloud-based ML workflows** that reduce manual workloads and enable smarter decision-making.  
+Beyond code, I enjoy **designing dashboards**, **optimizing workflows**, and **mentoring peers** exploring AI.
 
 ---
 
 ## 🔭 I’m currently working on
-- Building **LLM-driven automation** for engineering document intelligence at **Singapore Airlines Engineering Company**
-- Experimenting with **RAG pipelines**, **multi-agent systems**, and **retrieval-augmented frameworks**
+- 🚀 Building **LLM-driven automation** for engineering document intelligence at **Singapore Airlines Engineering Company**  
+- 🧩 Experimenting with **RAG pipelines**, **multi-agent systems**, and **retrieval-augmented frameworks**
 
 ## 🌱 I’m currently learning
-- **AWS (SageMaker, Bedrock)** for scalable model deployment  
-- **Data Engineering for AI pipelines** using PySpark and Airflow  
-- Advanced **LLM evaluation and fine-tuning** techniques
+- ☁️ **AWS (SageMaker, Bedrock)** for scalable model deployment  
+- ⚙️ **Data Engineering** for AI pipelines using PySpark and Airflow  
+- 🧠 **LLM evaluation and fine-tuning** techniques
 
-## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gitansha-aggarwal/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gitansha001@ntu.edu.sg)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue?style=for-the-badge&logo=google-chrome)](https://gitansha.github.io)
-
+---
 
 ## ⚡ Fun fact
-When I’m not training models, I’m probably deep into anime or some crafts 🎨  
+When I’m not training models, I’m probably deep into **anime**, **crafts 🎨**, or **exploring design ideas** for dashboards!
 
 ---
 
@@ -58,10 +55,11 @@ When I’m not training models, I’m probably deep into anime or some crafts �
 ---
 
 ## 🏆 Holopin Badges
-[![Holopin Badge](https://holopin.io/api/user/badge/cleec95c3040808jtc9bmog87)](https://holopin.io/@gitansha)
-[![Holopin Badge](https://holopin.io/api/user/badge/cleec8i5p439208mdi7sa8ne9)](https://holopin.io/@gitansha)
-[![Holopin Badge](https://holopin.io/api/user/badge/cmhc2nyax000hjs0464us3522)](https://holopin.io/@gitansha)
-[![Holopin Badge](https://holopin.io/api/user/badge/cmh91jqv80097kv04ki63legr)](https://holopin.io/@gitansha)
+<p align="center">
+  <a href="https://holopin.io/@gitansha">
+    <img src="https://holopin.io/api/user/board?user=gitansha" alt="@gitansha’s Holopin board" />
+  </a>
+</p>
 
 ---
 
@@ -77,6 +75,13 @@ When I’m not training models, I’m probably deep into anime or some crafts �
 ### 📈 **Business Valuation Platform**
 > Created an interactive stock valuation dashboard using **ARIMA**, **LSTM**, and **sentiment analysis** on company headlines.  
 > Integrated ML models into the frontend with **ReactJS**, improving user interaction and prediction accuracy.
+
+---
+
+## 📫 How to reach me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gitansha-aggarwal/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gitansha001@ntu.edu.sg)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue?style=for-the-badge&logo=google-chrome)](https://gitansha.github.io)
 
 ---
 
